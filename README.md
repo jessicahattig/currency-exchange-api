@@ -15,12 +15,14 @@
 * _Git_
 * _Node.js_
 * _Webpack_
-* _API_
+* _API: https://www.exchangerate-api.com/_
 
 
 ## Description
 
 _The Currency Exchange Calculator is a powerful web application that allows users to seamlessly convert currency values between USD and select target currencies. Built with modern technologies including HTML, CSS, JavaScript, and utilizing the Exchangerate API, this intuitive tool provides accurate and up-to-date exchange rates for Euro (EUR), British Pound (GBP), and Japanese Yen (JPY)._
+
+_Access the live version of the application here: [https://jessicahattig.github.io/currency-exchange-api]
 
 ## Setup/Installation Requirements
 
@@ -35,6 +37,7 @@ _The Currency Exchange Calculator is a powerful web application that allows user
 ## Known Bugs
 
 *  _Limited Currency Options: The currency exchange feature currently supports only three currencies: EUR, JPY, and GBP. Future updates could enhance the application by adding support for additional currencies._
+* _Form Reset: After a conversion is attempted, the form does not automatically reset to its initial state. Users need to manually refresh the page to clear the input fields and perform another currency conversion._
 
 
 ## License
