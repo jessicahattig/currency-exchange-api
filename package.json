@@ -4,11 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "webpack --mode=development",
+    "build": "webpack --mode=production",
+    "deploy": "gh-pages -d dist",
     "start": "webpack-dev-server --open --mode=development",
     "lint": "eslint src --ext .js",
     "test": "jest --coverage"
   },
+  "homepage": "https://github.com/jessicahattig/currency-exchange-api",
   "keywords": [],
   "author": "",
   "license": "ISC",
