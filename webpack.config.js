@@ -11,13 +11,13 @@ module.exports = {
     path: path.resolve(__dirname, 'dist')
   },
   devServer: {                 
-    contentBase: './dist'      
+    static: './dist'      
   },                           
   devtool: 'eval-source-map',
   plugins: [
     new ESLintPlugin(), 
     new HtmlWebpackPlugin({
-      title: 'Shape Tracker',
+      title: 'currency-exchange-api',
       template: './src/index.html',
       inject: 'body'
     }),
