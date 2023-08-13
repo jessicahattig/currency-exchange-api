@@ -1,0 +1,83 @@
+/* Apply a background color to the body */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  margin: 0;
+  padding: 0;
+}
+
+/* Center the calculator on the page */
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+/* Style the calculator form */
+#currencyForm {
+  background-color: #fff;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  width: 350px;
+}
+
+/* Style the calculator heading */
+h1 {
+  font-size: 28px;
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+/* Style the description paragraph */
+#description {
+  font-size: 16px;
+  text-align: center;
+  margin-bottom: 20px;
+  color: #555;
+}
+
+/* Style form elements */
+label {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 6px;
+  color: #555;
+}
+
+input[type="number"],
+select {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-bottom: 15px;
+}
+
+button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  padding: 10px 15px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+/* Display the result */
+#result {
+  font-size: 24px;
+  text-align: center;
+  margin-top: 20px;
+  padding: 15px;
+  border-radius: 8px;
+  background-color: transparent;
+  color: #0f0e0e;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
