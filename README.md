@@ -15,7 +15,7 @@
 * _Git_
 * _Node.js_
 * _Webpack_
-* _API: https://www.exchangerate-api.com/_
+* _API key from https://www.exchangerate-api.com/_
 
 
 ## Description
@@ -24,6 +24,7 @@ _The Currency Exchange Calculator is a powerful web application that allows user
 
 ## Setup/Installation Requirements
 
+* _Navigate to the website https://www.exchangerate-api.com and created an accout to obtain a unique Exchangerate API key.
 * _Clone this repository to your desktop._
 * _Navigate to the root directory of the project._
 * _Run the following terminal command to install the project's dependencies: `npm install`_
