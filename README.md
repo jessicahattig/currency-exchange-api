@@ -36,7 +36,6 @@ _The Currency Exchange Calculator is a powerful web application that allows user
 ## Known Bugs
 
 *  _Limited Currency Options: The currency exchange feature currently supports only three currencies: EUR, JPY, KWD, KYD, and GBP. Future updates could enhance the application by adding support for additional currencies._
-* _Form Reset: After a conversion is attempted, the form does not automatically reset to its initial state. Users need to manually refresh the page to clear the input fields and perform another currency conversion._
 
 
 ## License
