@@ -23,7 +23,8 @@
 _The Currency Exchange Calculator is a powerful web application that allows users to seamlessly convert currency values between USD and select target currencies. Built with modern technologies including HTML, CSS, JavaScript, and utilizing the Exchangerate API, this intuitive tool provides accurate and up-to-date exchange rates for Euro (EUR), Yen (JPY), Kuwaiti Dinar (KWD), Cayman Islands Dollar (KYD), and British Pound (GBP)._
 
 ## Setup/Installation Requirements
-* _Navigate to the website https://www.exchangerate-api.com and created an accout to obtain a unique Exchangerate API key.
+
+* _Navigate to the website https://www.exchangerate-api.com and created an accout to obtain a unique Exchangerate API key._
 * _Clone this repository to your desktop._
 * _Navigate to the root directory of the project._
 * _Run the following terminal command to install the project's dependencies: `npm install`_
