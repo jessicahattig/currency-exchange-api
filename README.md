@@ -1,4 +1,4 @@
-# _Super Galactic Age Calculator_
+# _Currency Exchange Calculator_
 
 #### By _**Jessica Hattig**_
 
@@ -35,7 +35,7 @@ _The Currency Exchange Calculator is a powerful web application that allows user
 
 ## Known Bugs
 
-*  _Limited Currency Options: The currency exchange feature currently supports only three currencies: EUR, JPY, KWD, KYD, and GBP. Future updates could enhance the application by adding support for additional currencies._
+*  _Limited Currency Options: The currency exchange feature currently supports only five currencies: EUR, JPY, KWD, KYD, and GBP. Future updates could enhance the application by adding support for additional currencies._
 
 
 ## License
